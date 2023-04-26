@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Module05Act01.MainPage">
+
+    <StackLayout>
+        <Switch x:Name="mySwitch" />
+        <Label x:Name="myLabel" Text="Switch is OFF" />
+    </StackLayout>
+
+</ContentPage>

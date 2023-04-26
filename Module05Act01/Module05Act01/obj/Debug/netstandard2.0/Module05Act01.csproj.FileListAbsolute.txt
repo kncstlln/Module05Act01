@@ -1,0 +1,15 @@
+C:\Users\Kane\source\repos\Module05Act01\Module05Act01\Module05Act01\bin\Debug\netstandard2.0\Module05Act01.deps.json
+C:\Users\Kane\source\repos\Module05Act01\Module05Act01\Module05Act01\bin\Debug\netstandard2.0\Module05Act01.dll
+C:\Users\Kane\source\repos\Module05Act01\Module05Act01\Module05Act01\bin\Debug\netstandard2.0\Module05Act01.pdb
+C:\Users\Kane\source\repos\Module05Act01\Module05Act01\Module05Act01\obj\Debug\netstandard2.0\Module05Act01.csproj.AssemblyReference.cache
+C:\Users\Kane\source\repos\Module05Act01\Module05Act01\Module05Act01\obj\Debug\netstandard2.0\Module05Act01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kane\source\repos\Module05Act01\Module05Act01\Module05Act01\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Kane\source\repos\Module05Act01\Module05Act01\Module05Act01\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Kane\source\repos\Module05Act01\Module05Act01\Module05Act01\obj\Debug\netstandard2.0\Module05Act01.AssemblyInfoInputs.cache
+C:\Users\Kane\source\repos\Module05Act01\Module05Act01\Module05Act01\obj\Debug\netstandard2.0\Module05Act01.AssemblyInfo.cs
+C:\Users\Kane\source\repos\Module05Act01\Module05Act01\Module05Act01\obj\Debug\netstandard2.0\Module05Act01.csproj.CoreCompileInputs.cache
+C:\Users\Kane\source\repos\Module05Act01\Module05Act01\Module05Act01\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Kane\source\repos\Module05Act01\Module05Act01\Module05Act01\obj\Debug\netstandard2.0\Module05Act01.dll
+C:\Users\Kane\source\repos\Module05Act01\Module05Act01\Module05Act01\obj\Debug\netstandard2.0\refint\Module05Act01.dll
+C:\Users\Kane\source\repos\Module05Act01\Module05Act01\Module05Act01\obj\Debug\netstandard2.0\Module05Act01.pdb
+C:\Users\Kane\source\repos\Module05Act01\Module05Act01\Module05Act01\obj\Debug\netstandard2.0\ref\Module05Act01.dll
